@@ -1,4 +1,5 @@
-# me
+# My portfolio App
+It showcases my skills,projects and everything about me.
 
 A new Flutter project.
 
